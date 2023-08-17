@@ -17,3 +17,8 @@ h1{
 h2{
     color: red;
 }
+
+p{
+    text-align: justify;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
