@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: chartreuse;
+}
+
+h1{
+    color: crimson;
+    text-align: center;
+}
